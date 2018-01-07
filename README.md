@@ -1,3 +1,3 @@
 # hello-world
 Hello, World
-14 year old programmer that wants to start using Github. Here we are, 3/29/2016.
+I'm a 16 year old Programmer that is currently in 11th grade at River Dell Regional High School.
